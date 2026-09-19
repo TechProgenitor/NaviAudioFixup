@@ -1,0 +1,8 @@
+.DS_Store
+DerivedData
+build
+Lilu.kext
+/MacKernelSDK
+xcshareddata
+xcuserdata
+project.xcworkspace
